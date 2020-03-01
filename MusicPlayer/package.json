@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
+    "react-native-get-music-files": "^2.1.0",
     "react-native-swift": "^1.2.2",
     "react-native-track-player": "^1.2.2"
   },
